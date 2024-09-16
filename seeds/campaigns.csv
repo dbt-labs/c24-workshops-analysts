@@ -1,0 +1,8 @@
+ID,SEQ,NAME,TIER_NAME,OWNER
+1,1,Cab-outreach,tier1,Roy
+2,1,Webinar-dbtMesh,tier1,Rebecca
+2,2,Webinar-dbtMesh,tier2,Rebecca
+2,3,Webinar-dbtMesh,tier3,Rebecca
+2,4,Webinar-dbtMesh,tier4,Rebecca
+3,1,Conference-tix,tier1,Ted
+3,2,Conference-tix,tier2,Ted

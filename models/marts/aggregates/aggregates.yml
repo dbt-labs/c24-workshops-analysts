@@ -1,0 +1,13 @@
+ 
+ models: 
+  
+  - name: cost_per_engaged_user
+    description: cost per engaged user on the website
+    columns:
+      - name: user_id
+        tests:
+          - not_null
+      - name: total_engagement
+      - name: total_ad_spend
+      
+  - name: agg_campaign_customer_contacts
