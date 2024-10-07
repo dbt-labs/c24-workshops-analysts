@@ -27,3 +27,7 @@ clean-targets:         # directories to be removed by `dbt clean`
 
 # Configuring models
 # Full documentation: https://docs.getdbt.com/docs/configuring-models
+
+dbt-cloud:
+  project-id: 382149
+  environment: 'dbt_cturner'
